@@ -1,5 +1,6 @@
 ---
-title: text
-date: 2025-06-24 08:52:59
+title: HNUCTF
+date: 2025-09-19 08:52:59
 tags:
 ---
+HUNCTF{trueflag}
