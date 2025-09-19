@@ -1,2 +1,0 @@
-恭喜你跨过层层密云找到了真正的flag
-HNUCTF{the_true_flag}
