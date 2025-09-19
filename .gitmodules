@@ -1,0 +1,3 @@
+[submodule "themes/magzine"]
+	path = themes/magzine
+	url = https://github.com/Lucian/magzine.git
