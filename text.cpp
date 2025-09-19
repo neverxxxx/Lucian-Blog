@@ -1,1 +1,1 @@
-//这是一个text
+HNUCTF{}
