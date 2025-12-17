@@ -6,8 +6,8 @@ tags:
   - 随笔
   - 故事
   - 思考
-cover: https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1400&q=80
-description: 一篇关于山间遇到奇怪信号灯的短故事，用于演示 Hexo 博文格式。
+img: https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1400&q=80
+summary: 一篇关于山间遇到奇怪信号灯的短故事，用于演示 Hexo 博文格式。
 ---
 
 > “有时候，路边的一盏灯，也能照亮一个人的思绪。”
